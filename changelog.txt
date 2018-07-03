@@ -1,0 +1,16 @@
+- Implemented a sitemap generator.
+- Custom image can now be uploaded for a playlist.
+- Description can now be added to a playlist.
+- Improved user profile information validation.
+- Improved wikipedia artist biography and images accuracy.
+- Improved SEO of genre, new releases, top 50, popular albums and popular genres pages.
+- Added a button to clear site cache in admin area > settings page.
+- Ads will now change properly when user navigates through the site.
+- Track duration and name will now be filled in automatically when uploading a track file.
+- Fixed several issues with user email confirmation.
+- Fixed an issue with ads from some networks not showing properly.
+- Fixed an issue with image and mp3 file uploads not working on some servers.
+- Fixed an issue where autoplay would not work sometimes with shared track link.
+- Fixed an issue where maximum of 5 playlists would be shown in user profile.
+- Fixed an issue with artists that have slash in their name not working properly.
+- Fixed some issues with search that occurred with accented characters.
